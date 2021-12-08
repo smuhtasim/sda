@@ -7,6 +7,6 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Al Muhtasim Srijonjjh`)
+  console.log(`Al Muhtasim Srijon`)
 })
 
